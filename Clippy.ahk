@@ -51,7 +51,7 @@ Gui Add, Edit, vClippyFunction5 x324 y120 w62 h21,
 ;button übernehmen
 Gui Add, Button, gRegisterHotkeys x285 y150 w100 h23, übernehmen
 ;link
-Gui Add, Link, x15 y155 w120 h23, <a href="https://unsere-schule.org/programmieren/autohotkey/einstieg-autohotkey/">Hilfe und Anleitung</a>
+Gui Add, Link, x15 y155 w120 h23, <a href="https://unsere-schule.org/programmieren/autohotkey/programme/clippy-clipboard-manager/">Hilfe und Anleitung</a>
 
 ;laod data
 ReadDataINI()
